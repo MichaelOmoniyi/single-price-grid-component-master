@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/MichaelOmoniyi/single-price-grid-component-master)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -77,6 +77,6 @@ I'd love to master the use of Css grid and know how and when to use it.
 
 ## Author
 
-- Website - [Michael Omoniyi](https://www.your-site.com)
+- Website - [Michael Omoniyi](https://github.com/MichaelOmoniyi)
 - Frontend Mentor - [@MichaelOmoniyi](www.frontendmentor.io/profile/MichaelOmoniyi)
 - Twitter - [@Omons_Mikel](https://twitter.com/Omons_Mikel)
